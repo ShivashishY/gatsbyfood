@@ -1,12 +1,33 @@
 - name: Food
   slug: /
   photos:
-    - title: S
-      alt: S
-      url: https://i.imgur.com/PVNtpnY.png
-    - title: Matar Paneer
-      alt: Matar Paneer
-      url: https://i.imgur.com/CDxoV94.jpg
+    - title: Chicken Tandoori
+      alt: Chicken Tandoori
+      url: https://i.imgur.com/Y1sm4Ss.jpg
+    - title: Dhosa, Shambhar & Chatni
+      alt: Dhosa, Shambhar & Chatni
+      url: https://i.imgur.com/hlQgjHp.jpg
+    - title: Pav Bhaji
+      alt: Pav Bhaji
+      url: https://i.imgur.com/tJLfQYu.jpg  
+    - title: Cheese Omlate
+      alt: Cheese Omlate
+      url: https://i.imgur.com/POiinYh.jpg
+    - title: Vada Pav
+      alt: Vada Pav
+      url: https://i.imgur.com/QfGwLSz.jpg
+    - title: Veg Biryani
+      alt: Veg Biryani
+      url: https://i.imgur.com/9Ef2iTN.jpg
+    - title: Desi Khana (Roti, Saag, Desi Chatni, Kheer)
+      alt: Desi Khana (Roti, Saag, Desi Chatni, Kheer)
+      url: https://i.imgur.com/vCjDQf4.jpg
+    - title: Chicken Lolipop
+      alt: Chicken Lolipop
+      url: https://i.imgur.com/ZSCYlcl.jpg
+    - title: Chilli Paneer Greavy
+      alt: Chilli Paneer Greavy
+      url: https://i.imgur.com/dIwd48q.jpg        
     - title: Aaloo Matar Bhujiya
       alt: Aaloo Matar Bhujiya
       url: https://i.imgur.com/hvum1tp.jpg
@@ -16,15 +37,6 @@
     - title: Fried Paneer
       alt: Fried Paneer
       url: https://i.imgur.com/180WR0M.jpg
-    - title: Desi Khana (Roti, Saag, Desi Chatni, Kheer)
-      alt: Desi Khana (Roti, Saag, Desi Chatni, Kheer)
-      url: https://i.imgur.com/vCjDQf4.jpg
-    - title: Chicken Tandoori
-      alt: Chicken Tandoori
-      url: https://i.imgur.com/Y1sm4Ss.jpg
-    - title: Veg Biryani
-      alt: Veg Biryani
-      url: https://i.imgur.com/9Ef2iTN.jpg
     - title: Veg Pasta
       alt: Veg Pasta
       url: https://i.imgur.com/61tucDh.jpg
@@ -40,9 +52,6 @@
     - title: Veg Manchurian
       alt: Veg Manchurian
       url: https://i.imgur.com/jvTL2lw.jpg
-    - title: Chicken Lolipop
-      alt: Chicken Lolipop
-      url: https://i.imgur.com/ZSCYlcl.jpg
     - title: Fried Potato
       alt: Fried Potato
       url: https://i.imgur.com/ZIEnKgC.jpg
@@ -52,9 +61,6 @@
     - title: Egg Veg Biryani
       alt: Egg Veg Biryani
       url: https://i.imgur.com/t4urABb.jpg
-    - title: Chilli Paneer Greavy
-      alt: Chilli Paneer Greavy
-      url: https://i.imgur.com/dIwd48q.jpg
     - title: Chilli Chicken
       alt: Chilli Chicken
       url: https://i.imgur.com/92tjoz4.jpg
@@ -106,9 +112,6 @@
     - title: Chuda Matar
       alt: Chuda Matar
       url: https://i.imgur.com/oOkwGMI.jpg
-    - title: Dhosa, Shambhar & Chatni
-      alt: Dhosa, Shambhar & Chatni
-      url: https://i.imgur.com/hlQgjHp.jpg
     - title: White Poha
       alt: White Poha
       url: https://i.imgur.com/gxbSPzl.jpg
@@ -145,9 +148,6 @@
     - title: Fried Chicken Piece Without Masala in Hostel
       alt: Fried Chicken Piece Without Masala in Hostel
       url: https://i.imgur.com/tLCPEWa.jpg
-    - title: Cheese Omlate
-      alt: Cheese Omlate
-      url: https://i.imgur.com/POiinYh.jpg
     - title: Veg Maggie in Kadahi
       alt: Veg Maggie in Kadahi
       url: https://i.imgur.com/5dJCL6S.jpg
@@ -190,9 +190,6 @@
     - title: Samosa
       alt: Samosa
       url: https://i.imgur.com/l95LQNG.jpg
-    - title: Vada Pav
-      alt: Vada Pav
-      url: https://i.imgur.com/QfGwLSz.jpg
     - title: Mango Juice
       alt: Mango Juice
       url: https://i.imgur.com/jth8sOl.jpg
@@ -223,9 +220,9 @@
     - title: Sabudana Khichadi
       alt: Sabudana Khichadi
       url: https://i.imgur.com/xCcicGH.jpg
-    - title: Pav Bhaji
-      alt: Pav Bhaji
-      url: https://i.imgur.com/tJLfQYu.jpg
     - title: Sattu Paratha Chokha
       alt: Sattu Paratha Chokha
       url: https://i.imgur.com/icY1wyN.jpg
+    - title: Matar Paneer
+      alt: Matar Paneer
+      url: https://i.imgur.com/CDxoV94.jpg
