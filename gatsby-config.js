@@ -5,18 +5,25 @@ module.exports = {
     author: "Shivashish",
     name: `Shivashish`,
     tagline: `Indian Food`,
+    menuLinks: [
+      {
+        name: "About",
+        url: "/about/",
+        type: "internal" // internal or anchor
+      },
+    ],
     social: [
       {
         name: `Facebook`,
-        url: `https://facebook.com`,
+        url: `https://www.facebook.com/shivashish.ydv/`,
       },
       {
         name: `Twitter`,
-        url: `https://twitter.com`,
+        url: `https://twitter.com/ShivashishYadav`,
       },
       {
         name: `Instagram`,
-        url: `https://instagram.com`,
+        url: `https://www.instagram.com/shivashish.yadav/`,
       },
     ],
   },
@@ -35,7 +42,10 @@ module.exports = {
     },
     {
       resolve: `gatsby-theme-serena`,
-      options: {},
+      options: {
+        disableContact: `true`,
+
+      },
     },
     
   ],
